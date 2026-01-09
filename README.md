@@ -7,11 +7,11 @@
 
 > **"Chew better, live better"** - An intelligent audio classification system using wearable eyewear for real-time dietary monitoring and health analytics.
 
-## 📋 Project Overview
+## Project Overview
 
 ChewFit is an end-to-end deep learning pipeline that processes acoustic signals from sensor-equipped wearable eyewear to detect chewing events, identify food types, and track nutritional intake. The system addresses the global obesity pandemic by providing automated, non-intrusive dietary monitoring.
 
-## 🎯 The Problem
+## The Problem
 
 **Obesity is a global pandemic** (WHO, 2016):
 - 1.9 billion adults overweight (39% of global population)
@@ -20,7 +20,7 @@ ChewFit is an end-to-end deep learning pipeline that processes acoustic signals 
 
 While numerous devices track exercise calories, there's a critical gap in **automated food intake monitoring**. Digestive issues often trace back to improper chewing habits, yet no accessible solution exists for real-time chewing analysis and dietary tracking.
 
-## ✨ Solution: How ChewFit Works
+## Solution: How ChewFit Works
 
 We leverage the unique acoustic signatures of different foods during chewing. Just as an apple has a distinctive "crunch," every food creates characteristic sound patterns that can be identified through deep learning.
 
