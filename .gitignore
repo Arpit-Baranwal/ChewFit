@@ -1,0 +1,11 @@
+Pipefile*
+**/lightning_logs/**
+__pycache__
+__pycache__/
+*.pyc
+data/**
+*.aux
+*.fdb_latexmk
+*.log
+*.fls
+*.synctex.gz
