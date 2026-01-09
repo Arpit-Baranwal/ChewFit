@@ -11,8 +11,6 @@
 
 ChewFit is an end-to-end deep learning pipeline that processes acoustic signals from sensor-equipped wearable eyewear to detect chewing events, identify food types, and track nutritional intake. The system addresses the global obesity pandemic by providing automated, non-intrusive dietary monitoring.
 
-![ChewFit Dashboard](docs/chewfit-dashboard.png) *AI Health & Nutrition Dashboard*
-
 ## 🎯 The Problem
 
 **Obesity is a global pandemic** (WHO, 2016):
